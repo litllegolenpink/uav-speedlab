@@ -26,3 +26,5 @@ runs/
 outputs/
 data/videos/
 weights/
+.DS_Store
+data/
