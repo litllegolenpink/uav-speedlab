@@ -17,3 +17,12 @@ data/videos/
 
 # env
 .env
+# local outputs
+*.csv
+*.jsonl
+*.xlsx
+*.mp4
+runs/
+outputs/
+data/videos/
+weights/
