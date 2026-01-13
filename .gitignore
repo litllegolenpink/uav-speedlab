@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# outputs / logs
+*.csv
+*.jsonl
+*.xlsx
+*.mp4
+
+# model outputs
+outputs/
+data/output/
+
+# local data
+data/videos/
+
+# env
+.env
